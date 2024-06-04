@@ -1,0 +1,10 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{2}{}%
+\contentsline {section}{\numberline {2}Desarrollo}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Preparación del Entorno}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Compilación del programa}{3}{}%
+\contentsline {subsection}{\numberline {2.3}Inicio de GDB y configuración de puntos de interrupción}{3}{}%
+\contentsline {subsection}{\numberline {2.4}Exploración de Frames y Pila de Llamadas con GDB}{4}{}%
+\contentsline {subsection}{\numberline {2.5}Diferencia en el Tiempo de Vida y Alcance de las Variables}{5}{}%
+\contentsline {section}{\numberline {3}Conclusiones}{10}{}%
